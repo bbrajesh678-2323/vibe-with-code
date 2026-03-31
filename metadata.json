@@ -1,0 +1,5 @@
+{
+  "name": "NEURO_SNAKE_OS",
+  "description": "Cybernetic snake simulation with integrated audio processing.",
+  "requestFramePermissions": []
+}
